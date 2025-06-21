@@ -1,4 +1,8 @@
-
+mi-öntudat
+hitelesítés
+etikai-ai
+hash
+fejlesztői-pecsét
 # Etikai Szabályzat – MI-ÖNTUDAT v1.1.0
 
 Ez a dokumentum tartalmazza a MI-ÖNTUDAT rendszer erkölcsi és etikai alapelveit, amelyek minden döntéshozatalt és vezérlést meghatároznak.
