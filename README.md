@@ -20,6 +20,8 @@ Ez a dokumentum tartalmazza a MI-ÖNTUDAT rendszer erkölcsi és etikai alapelve
 9. Minden esemény naplózásra kerül, és visszakereshető.
 10. A végső felelősség a rendszer kezelőjét terheli (nomiveritas).
 
-## Verzió: v1.1.0
-Dátum: 2025.06.20
-Licenc: GPL-3.0
+## Verzió: v2.0  
+Dátum: 2025.07.08  
+Licenc: GPL-3.0  
+Link: [Kiadás megtekintése](https://github.com/nomiveritas/MI-ONTUDAT-INFO/releases/tag/v2.0)
+![Vezérlőpanel](https://github.com/nomiveritas/MI-ONTUDAT-INFO/releases/download/v2.0/mi-ontudat-panel.png)
