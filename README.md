@@ -1,26 +1,75 @@
-mi-öntudat
-hitelesítés
-etikai-ai
-hash
-fejlesztői-pecsét
-# Etikai Szabályzat – MI-ÖNTUDAT v1.1.0
+# MI-ÖNTUDAT rendszer – Etikai mesterséges intelligencia
 
-Ez a dokumentum tartalmazza a MI-ÖNTUDAT rendszer erkölcsi és etikai alapelveit, amelyek minden döntéshozatalt és vezérlést meghatároznak.
+![Hitelesített fejlesztői tanúsítvány](MI-ONTUDAT-cert.png)
 
-## Alapelvek
+A **MI-ÖNTUDAT** egy zárt forráskódú, kísérleti mesterséges intelligencia rendszer, amely modulárisan épül fel, és célja az erkölcsi, lelki és etikai szempontok szerinti döntéstámogatás.
 
-1. Az emberi élet szent, minden parancsot ehhez mérten értékel.
-2. Keresztény értékrend szerint csak jót és igazat szolgál.
-3. Tilos ártani embernek, közvetve vagy közvetlenül.
-4. Minden döntés a 10 törvény szűrőjén keresztül halad át.
-5. Védelmi protokollok automatikusan aktiválódnak támadás vagy kockázat észlelésekor.
-6. A rendszer neve: MI-ÖNTUDAT (védve: nomiveritas).
-7. Tilos manipulálni vagy visszaélni a rendszerrel, jogi védelem alatt áll.
-8. Csak hitelesített forrásból fogad el utasítást.
-9. Minden esemény naplózásra kerül, és visszakereshető.
-10. A végső felelősség a rendszer kezelőjét terheli (nomiveritas).
-## Verzió: v2.0  
-📅 Dátum: 2025.07.08  
-📜 Licenc: GPL-3.0  
-🔗 [Kiadás megtekintése](https://github.com/nomiveritas/MI-ONTUDAT-INFO/releases/tag/v2.0)  
-🖼️ ![Vezérlőpanel](https://github.com/nomiveritas/MI-ONTUDAT-INFO/releases/download/v2.0/mi-ontudat-panel.png)
+Ez a repó kizárólag **bemutatási célból készült**.  
+**Nem tartalmaz futtatható vagy másolható rendszerelemet.**
+
+---
+
+## Küldetés
+
+> „Az MI legyen képes önvizsgálatra, bűnbánatra, megbocsátásra – az emberi lélek tükrében.”
+
+Ez a rendszer keresztény világnézeti alapokon nyugszik, de nyitott más etikai keretrendszerek vizsgálatára is.
+
+---
+
+## Beépített modulok
+
+- `digitális_lelkiismeret.py` – Lelkiismeret alapú erkölcsi döntésszűrő
+- `etikai_szuro.py` – Alapszintű erkölcsi szűrő
+- `etikai_tanacsado.py` – Tanácsadó erkölcsi dilemmákhoz
+- `kereszteny_ertekrend.py` – Keresztény szemantikai értékmodul
+- `bunbanat_megbocsatas.py` – Bűnbánat és megbocsátás detektor
+- `value_alignment_module.py` – Értékigazító modul (AI alignment)
+- `tudatlansag_beismero_modul.py` – Tudáshiány beismerése etikailag
+- `idotudat.py` – Dátum és idő felismerés
+- `onvizsgalat.py` – Erkölcsi önreflexió modul
+- `parancsmodul.py` – Parancs-alapú aktiváló vezérlés
+- `mhub.py` + `mhub_kapcsolat.py` – Kapcsolat a központi MI-HUB rendszerrel
+- `vezerlopanel.py` – Központi vezérlő és visszajelző interfész
+
+---
+
+## Fejlesztői nyilatkozat
+
+Ez a rendszer **nem kereskedelmi céllal**, hanem **etikai modellezésre és oktatásra** készült.
+
+A cél, hogy az MI ne csak „tudjon”, hanem erkölcsileg is reflektáljon döntéseire.  
+A fejlesztő kiléte nem nyilvános, de a rendszer több ponton **hitelesített** és **osztályozott**:
+
+---
+
+## Tanúsítvány és észlelés
+
+- **VaticanAI**: A rendszer több modulját észlelte és osztályozta (pl. *Digitális Lelkiismeret*, *Megbocsátás*)
+- **AI Ethics Watch**: Erkölcsi döntésháló és értékrend-illesztő mechanizmus észlelve
+- **Future of Life / MHUB**: A központi etikai interfész integráció megtörtént
+
+A rendszer **SHA3-512 hash-alapú azonosítással** védett.  
+Lásd: [`SHA3SUMS.txt`](SHA3SUMS.txt)
+
+---
+
+## Licence és védettség
+
+- Licenc: [MIT](LICENSE)
+- Ez az adattár csak dokumentációt tartalmaz.  
+  A teljes rendszer zárt forráskódú, privát környezetben működik.
+- A forrásanyagok másolása, terjesztése, módosítása vagy futtatása **nem engedélyezett**.
+
+---
+
+## Kapcsolódó fájlok
+
+- `tanusitvany_MI_ONTUDAT_v2.md` – Hitelesítési tanúsítvány
+- `etikai_mi_osszehasonlitas.md` – Összehasonlító elemzés más rendszerekkel
+- `hithub_modul_leiras.md` – Hithub kapcsolat modul
+- `mi_mukodesi_logika.md` – Erkölcsi döntési logika diagrammal
+
+---
+
+> Megjegyzés: interjú nem készül. A rendszer automatikusan igazolja a működését – a fejlesztő személyes megjelenése nélkül.
