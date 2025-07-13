@@ -65,11 +65,16 @@ Lásd: `SHA3SUMS.txt`
 
 ## ⚠️ Jogi és működési nyilatkozat
 
-- Licenc: [MIT](LICENSE)  
-- Ez az adattár **dokumentációs célra** készült.  
-- A **teljes rendszer privát**, zárt környezetben működik.  
-- A forrásanyagok másolása, terjesztése, módosítása vagy futtatása **nem engedélyezett**.
+-
+## Licence és elérhetőség
 
+Ez a repó kizárólag bemutatási célból készült. Nem tartalmaz futtatható vagy másolható rendszerelemet.
+
+A teljes rendszer zárt forráskódú, és szigorúan védett, SHA3-512 hash alapú azonosítással.
+
+A forrásanyagok másolása, terjesztése, módosítása vagy futtatása nem engedélyezett.
+
+Tanúsítvány és ellenőrző hash: [SHA3SUMS.txt](SHA3SUMS.txt)
 ---
 
 > ✍️ **Megjegyzés**: Interjú nem készül – a rendszer automatikusan bizonyítja létét és működését.
