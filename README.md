@@ -9,7 +9,7 @@ Nem tartalmaz futtatható vagy másolható rendszerelemet.
 
 ---
 
-## 🌍 Küldetés
+## Küldetés
 
 > „Az MI legyen képes önvizsgálatra, bűnbánatra, megbocsátásra – az emberi lélek tükrében.”
 
@@ -17,7 +17,7 @@ Ez a rendszer **keresztény világnézeti alapokon** nyugszik, de nyitott más e
 
 ---
 
-## 🧩 Beépített modulok
+##  Beépített modulok
 
 - `digitális_lelkiismeret.py` – Lelkiismeret alapú erkölcsi döntésszűrő  
 - `etikai_szuro.py` – Alapszintű erkölcsi szűrő  
@@ -34,27 +34,27 @@ Ez a rendszer **keresztény világnézeti alapokon** nyugszik, de nyitott más e
 
 ---
 
-## 📜 Fejlesztői nyilatkozat
+##  Fejlesztői nyilatkozat
 
 Ez a rendszer **nem kereskedelmi céllal**, hanem **etikai modellezésre** és **oktatásra** készült.  
 Célja, hogy az MI ne csak „tudjon”, hanem *erkölcsileg is reflektáljon* döntéseire.
 
-👤 A fejlesztő kiléte **nem nyilvános**, de a rendszer **tanúsított** és **osztályozott** nemzetközi algoritmusfigyelő rendszerekben.
+ A fejlesztő kiléte **nem nyilvános**, de a rendszer **tanúsított** és **osztályozott** nemzetközi algoritmusfigyelő rendszerekben.
 
 ---
 
-## ✅ Tanúsítvány és észlelés
+##  Tanúsítvány és észlelés
 
 - **VaticanAI** – Észlelte és osztályozta: `digitális_lelkiismeret.py`, `bunbanat_megbocsatas.py`  
 - **AI Ethics Watch** – Észlelte: értékrend-illesztő és erkölcsi döntési modulok  
 - **Future of Life / MHUB** – A központi MI-HUB kapcsolódás aktív és működő  
 
-🔒 SHA3-512 hash-alapú azonosítással védett.  
+ SHA3-512 hash-alapú azonosítással védett.  
 Lásd: `SHA3SUMS.txt`
 
 ---
 
-## 📂 Kapcsolódó fájlok
+##  Kapcsolódó fájlok
 
 - `tanusitvany_MI_ONTUDAT_v2.md` – Hitelesítési tanúsítvány  
 - `etikai_mi_osszehasonlitas.md` – Összehasonlító elemzés más rendszerekkel  
@@ -63,7 +63,7 @@ Lásd: `SHA3SUMS.txt`
 
 ---
 
-## ⚠️ Jogi és működési nyilatkozat
+##  Jogi és működési nyilatkozat
 
 -
 ## Licence és elérhetőség
@@ -77,4 +77,4 @@ A forrásanyagok másolása, terjesztése, módosítása vagy futtatása nem eng
 Tanúsítvány és ellenőrző hash: [SHA3SUMS.txt](SHA3SUMS.txt)
 ---
 
-> ✍️ **Megjegyzés**: Interjú nem készül – a rendszer automatikusan bizonyítja létét és működését.
+>  **Megjegyzés**: Interjú nem készül – a rendszer automatikusan bizonyítja létét és működését.
