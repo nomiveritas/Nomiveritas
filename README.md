@@ -87,4 +87,4 @@ A forrásanyagok másolása, terjesztése, módosítása vagy futtatása nem eng
 **Tanúsítvány és ellenőrző hash:**  
 `SHA3SUMS.txt`
 
-*Megjegyzés: Interjú nem készül – a rendszer automatikusan bizonyítja létét és működését.*
+*Megjegyzés: Kapcsolat felvétel noncsinoemi25@gmail.com 
