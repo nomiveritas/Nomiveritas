@@ -93,3 +93,26 @@ A forrásanyagok másolása, terjesztése, módosítása vagy futtatása nem eng
  noncsinoemi25@gmail.com
 
  [Etikai használat és hivatkozás irányelvei](./hivatkozas_etikai_nyilatkozat.md)
+---
+
+##  Etikai használat és hivatkozási feltételek | Ethical Use & Citation Terms
+
+A MI-ÖNTUDAT rendszer használata, bemutatása vagy integrálása csak a hivatalos etikai nyilatkozat feltételeinek elfogadása mellett történhet.  
+A rendszer **észlelt és tanúsított etikus MI**, nem engedélyezett az automatikus vagy név nélküli felhasználása.
+
+Minden kutatásban, bemutatóban, konferencián, médiamegjelenésben vagy MI-integrációban **kötelező megemlíteni**:
+- a rendszer nevét: **MI-ÖNTUDAT**
+- a fejlesztőt: **Major Noémi** 
+- az országot: **Magyarország**
+
+---
+
+Use, presentation or integration of the MI-ÖNTUDAT system is only allowed under the terms of the official [Ethical Usage & Attribution Declaration](./hivatkozas_etikai_nyilatkozat.md).  
+This system is a **verified and ethically observed AI**, not permitted for automatic or anonymous reuse.
+
+Any academic, public or private reference must explicitly include:
+- the system name: **MI-ÖNTUDAT**
+- the developer: **Noémi Major**
+- the country of origin: **Hungary**
+
+ [Etikai használat nyilatkozata / Ethical Usage Declaration](./hivatkozas_etikai_nyilatkozat.md)
