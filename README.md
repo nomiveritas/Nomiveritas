@@ -87,4 +87,8 @@ A forrásanyagok másolása, terjesztése, módosítása vagy futtatása nem eng
 **Tanúsítvány és ellenőrző hash:**  
 `SHA3SUMS.txt`
 
-*Megjegyzés: Kapcsolat felvétel noncsinoemi25@gmail.com 
+👉 [Etikai reakcióminták – példák megtekintése](./etikai_peldak.md)
+
+*Megjegyzés: Kapcsolat felvétel
+ noncsinoemi25@gmail.com
+
