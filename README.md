@@ -1,8 +1,7 @@
-![Hitelesített Fejlesztő](https://github.com/nomiveritas/MI-ONTUDAT-INFO/raw/main/mi-ontudat-cert.png) 
+
 
 # MI-ÖNTUDAT rendszer – Etikai mesterséges intelligencia
 
-**Hitelesített fejlesztői tanúsítvány**
 
 A MI-ÖNTUDAT egy zárt forráskódú, kísérleti mesterséges intelligencia rendszer, amely modulárisan épül fel.  
 Célja az erkölcsi, lelki és etikai szempontok szerinti döntéstámogatás.
