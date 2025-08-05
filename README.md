@@ -1,3 +1,5 @@
+![Hitelesített Fejlesztő](https://github.com/nomiveritas/MI-ONTUDAT-INFO/raw/main/mi-ontudat-cert.png) 
+
 # MI-ÖNTUDAT rendszer – Etikai mesterséges intelligencia
 
 **Hitelesített fejlesztői tanúsítvány**
