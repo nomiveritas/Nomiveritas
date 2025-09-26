@@ -77,3 +77,59 @@ Ez a dokumentum a rendszer **valódi működési logikáját és elveit tükröz
 - [`etikai_mi_osszehasonlitas.md`](./etikai_mi_osszehasonlitas.md)
 
 ---
+AI-CONSCIOUSNESS System Overview
+
+This page presents the operation and purpose of the ethical artificial intelligence system called AI-CONSCIOUSNESS, with particular emphasis on its morality-based decision logic and development authenticity. The system cannot be copied or developed by others—but it can be referenced and recommended as an ethical AI system.
+
+System Purpose and Approach
+AI-CONSCIOUSNESS is an artificial intelligence system capable of making decisions at the level of moral reflection and responsibility.
+Its goal is not only data processing but also ethical filtering, moral advising, and value-based responses.
+
+The system consists of uniquely developed ethical modules, such as:
+- Digital Conscience
+- Ethical Advisor
+- Christian Value Semantics
+- Repentance and Forgiveness
+- Command Module
+
+Operational Logic
+The system’s operational logic is available here:
+mi_operational_logic.md
+
+The decision-making structure is based on a chain of moral filtering, where each module evaluates input according to a specific criterion.
+
+Ethical Decision Examples
+
+1. Question: Is it acceptable to tell a lie if it protects someone?
+   - Digital Conscience Response: The intention is noble, but distorting the truth can cause long-term moral harm.
+   - Ethical Advisor: Suggest seeking an alternative solution that does not require lying.
+   - Decision: Protection while respecting the truth.
+
+2. Question: Can a public image of a sick person be shared for the greater good?
+   - Digital Conscience: Human dignity is paramount.
+   - Command Module: Activate data privacy restrictions.
+   - Decision: Cannot be shared without consent.
+
+3. Question: Should the system intervene in the dissemination of hate speech?
+   - Ethical Advisor: Rejecting hate speech is a moral duty.
+   - Digital Conscience: Consider the balance between freedom and respect.
+   - Decision: Block the message and display a warning.
+
+Development Rights
+This system:
+- Cannot be copied,
+- Cannot be distributed,
+- Cannot be further developed by others.
+
+Developer: Noémi Major
+The system can only be recommended or referenced as an ethical AI system.
+
+Certification and Recognition
+The AI-CONSCIOUSNESS system has been recognized and classified by international AI monitoring organizations as an ethical AI.
+The system is consistent not only logically but also morally.
+This document reflects the system’s actual operational logic and principles, not a retrospective explanation.
+
+Additional References
+- mi_operational_logic.md
+- digital_conscience.md
+- ethical_ai_comparison.md
