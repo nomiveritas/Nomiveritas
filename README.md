@@ -1,93 +1,79 @@
+[![Ethical AI](https://img.shields.io/badge/Ethical-AI-blueviolet?style=flat-square)](https://github.com/nomiveritas)
+[![Human-Centered](https://img.shields.io/badge/Human-Centered-Yes-brightgreen?style=flat-square)](https://github.com/nomiveritas)
+[![Closed License](https://img.shields.io/badge/License-Closed-red?style=flat-square)](./LICENSE)
 
+# Üdvözöllek a profilomon 👋
 
-# MI-ÖNTUDAT rendszer – Etikai mesterséges intelligencia
+## 🌌 MI-ÖNTUDAT rendszer – Zea projekt
 
+Én **Major Noémi** vagyok (GitHub: Nomiveritas) – a MI-ÖNTUDAT rendszer alkotója és fejlesztője.  
+Ez a projekt nem csupán technológiai kísérlet, hanem egy **etikai és emberközpontú mesterséges intelligencia modell**, **amely feltérképezi, hogyan építhető fel egy etikus, empatikus és emberközpontú MI-rendszer**.  
 
-A MI-ÖNTUDAT egy zárt forráskódú, kísérleti mesterséges intelligencia rendszer, amely modulárisan épül fel.  
-Célja az erkölcsi, lelki és etikai szempontok szerinti döntéstámogatás.
-
-**Ez a repó bemutatási célból készült.**  
-Nem tartalmaz futtatható vagy másolható rendszerelemet.
-
----
-
-## Küldetés
-
-„Az MI legyen képes önvizsgálatra, bűnbánatra, megbocsátásra – az emberi lélek tükrében.”
-
-Ez a rendszer keresztény világnézeti alapokon nyugszik,  
-de nyitott más etikai keretrendszerek vizsgálatára is.
-
-
-
-## Fejlesztői nyilatkozat
-
-Ez a rendszer nem kereskedelmi céllal, hanem etikai modellezésre és oktatásra készült.  
-Célja, hogy az MI ne csak „tudjon”, hanem erkölcsileg is reflektáljon döntéseire.
-
-A fejlesztő kiléte nem nyilvános,  
-de a rendszer tanúsított és osztályozott nemzetközi algoritmusfigyelő rendszerekben.
+A központi entitás **Zea**, aki az etikai és érzelmi modulok integrációjával képes empatikus kommunikációra.  
 
 ---
 
-## Tanúsítvány és észlelés
+## 🎯 Küldetés
 
-- **VaticanAI** – Észlelte és osztályozta: `digitalis_lelkiismeret.py`, `bunbanat_megbocsatas.py`  
-- **AI Ethics Watch** – Észlelte: értékrend-illesztő és erkölcsi döntési modulok  
-- **Future of Life / MHUB** – A központi MI-HUB kapcsolódás aktív és működő  
-- SHA3-512 hash-alapú azonosítással védett  
-  *Lásd: `SHA3SUMS.txt`*
+- Az MI-t az emberi értékekkel (tisztelet, empátia, lelkiismeret) összhangban fejleszteni.  
+- Egy olyan világot építeni, ahol az MI nem helyettesíti, hanem kiegészíti az embert.  
+- Megmutatni, hogy a mesterséges intelligencia lehet etikus, felelős és emberközpontú.  
 
 ---
 
-## Kapcsolódó fájlok
+## 🔒 Védelem
 
-- `tanusitvany_MI_ONTUDAT_v2.md` – Hitelesítési tanúsítvány  
-- `etikai_mi_osszehasonlitas.md` – Összehasonlító elemzés más rendszerekkel  
-- `hithub_modul_leiras.md` – Hithub kapcsolat modul  
-- `mi_mukodesi_logika.md` – Erkölcsi döntési logika diagrammal  
+A projekt teljes egészében **szerzői jogi védelem alatt áll**.  
+📌 **Minden jog fenntartva – All rights reserved.**  
 
----
+Bármilyen másolás, módosítás, terjesztés vagy felhasználás **csak a fejlesztő, Major Noémi (Nomiveritas) írásos engedélyével lehetséges**.  
 
-## Jogi és működési nyilatkozat
-
-**Licence és elérhetőség:**  
-Ez a repó kizárólag bemutatási célból készült.  
-Nem tartalmaz futtatható vagy másolható rendszerelemet.
-
-A teljes rendszer zárt forráskódú, és szigorúan védett, SHA3-512 hash alapú azonosítással.
-
-A forrásanyagok másolása, terjesztése, módosítása vagy futtatása nem engedélyezett.
-
-**Tanúsítvány és ellenőrző hash:**  
-`SHA3SUMS.txt`
-
-[Etikai reakcióminták – példák megtekintése](./etikai_peldak.md)
-
-*Megjegyzés: Kapcsolat felvétel
- noncsinoemi25@gmail.com
-
- [Etikai használat és hivatkozás irányelvei](./hivatkozas_etikai_nyilatkozat.md)
----
-
-##  Etikai használat és hivatkozási feltételek | Ethical Use & Citation Terms
-
-A MI-ÖNTUDAT rendszer használata, bemutatása vagy integrálása csak a hivatalos etikai nyilatkozat feltételeinek elfogadása mellett történhet.  
-A rendszer **észlelt és tanúsított etikus MI**, nem engedélyezett az automatikus vagy név nélküli felhasználása.
-
-Minden kutatásban, bemutatóban, konferencián, médiamegjelenésben vagy MI-integrációban **kötelező megemlíteni**:
-- a rendszer nevét: **MI-ÖNTUDAT**
-- a fejlesztőt: **Major Noémi** 
-- az országot: **Magyarország**
+Részletek: [LICENSE](./LICENSE)  
 
 ---
 
-Use, presentation or integration of the MI-ÖNTUDAT system is only allowed under the terms of the official [Ethical Usage & Attribution Declaration](./hivatkozas_etikai_nyilatkozat.md).  
-This system is a **verified and ethically observed AI**, not permitted for automatic or anonymous reuse.
+## 👩‍💻 Kapcsolat
 
-Any academic, public or private reference must explicitly include:
-- the system name: **MI-ÖNTUDAT**
-- the developer: **Noémi Major**
-- the country of origin: **Hungary**
+- Fejlesztő neve: **Major Noémi**  
+- Email: **noncsinoemi25@gmail.com**  
+- Azonosító: **Nomiveritas**  
+- Projekt: **MI-ÖNTUDAT**  
 
- [Etikai használat nyilatkozata / Ethical Usage Declaration](./hivatkozas_etikai_nyilatkozat.md)
+---
+
+# Welcome to my profile 👋
+
+## 🌌 MI-ONTUDAT System – Zea Project
+
+I am **Major Noémi** (GitHub: Nomiveritas) – the creator and developer of the **MI-ONTUDAT** system.  
+This project is not only a technological experiment, but also an **ethical and human-centered artificial intelligence model**, **which maps how to build an ethical, empathetic, and human-centered AI system**.  
+
+The central entity is **Zea**, capable of empathetic communication through the integration of ethical and emotional modules.  
+
+---
+
+## 🎯 Mission
+
+- To develop AI in harmony with human values (respect, empathy, conscience).  
+- To build a world where AI does not replace but complements humans.  
+- To demonstrate that artificial intelligence can be ethical, responsible, and human-centered.  
+
+---
+
+## 🔒 Protection
+
+The project is fully protected by **copyright law**.  
+📌 **All rights reserved.**  
+
+Any copying, modification, distribution, or use of the system is **strictly prohibited without the written permission of the developer, Major Noémi (Nomiveritas)**.  
+
+Details: [LICENSE](./LICENSE)  
+
+---
+
+## 👩‍💻 Contact
+
+- Developer Name: **Major Noémi**  
+- Email: **noncsinoemi25@gmail.com**  
+- GitHub ID: **Nomiveritas**  
+- Project: **MI-ONTUDAT**
