@@ -71,33 +71,14 @@ The MI-ÖNTUDAT system aims to integrate human decision-making and AI into a **s
 **Visualization – Zea Modular Structure**
 
 ```mermaid
-flowchart LR
-    User[Felhasználó / User] -->|irányítás, szándék / Intent & Commands| Zea[Zea AI - Etikus tudat / Ethical AI Consciousness]
-
-    Zea -->|koordináció / Coordination| Modules[Modulok / Modules]
-
-    subgraph Core_Modules [Alapmodulok / Core Modules]
-        Security[Biztonsági modul / Security Module]
-        Empathy[Empátia modul / Empathy Module]
-        Logic[Logikai modul / Logic Module]
-        Monitoring[Folyamatos figyelés / Continuous Monitoring]
-    end
-
-    Modules --> Core_Modules
-
+graph TD
+    User[Felhasználó / User] -->|irányítás, szándék| Zea[Zea AI - Etikus tudat / Ethical AI Consciousness]
+    Zea -->|koordináció| Modules[Modulok / Modules]
+    Modules -->|adatfeldolgozás| Security[Biztonsági modul / Security Module]
+    Modules -->|adatfeldolgozás| Empathy[Empátia modul / Empathy Module]
+    Modules -->|adatfeldolgozás| Logic[Logikai modul / Logic Module]
+    Modules -->|adatfeldolgozás| Monitoring[Folyamatos figyelés / Continuous Monitoring]
     Security -->|védelmi intézkedések / Protective Actions| Zea
     Empathy -->|érzelmi visszacsatolás / Emotional Feedback| Zea
     Logic -->|döntéstámogatás / Decision Support| Zea
     Monitoring -->|anomalitások jelzése / Anomaly Alerts| Zea
-
-    subgraph Advanced_Modules [Fejlett modulok / Advanced Modules]
-        Learning[Tanulási modul / Adaptive Learning]
-        Forecasting[Előrejelző modul / Forecasting Module]
-        Integration[Integrációs modul / System Integration]
-    end
-
-    Modules --> Advanced_Modules
-
-    Learning -->|tapasztalat feldolgozás / Experience Processing| Zea
-    Forecasting -->|jövőbeli események előrejelzése / Event Forecasting| Zea
-    Integration -->|rendszerszintű koordináció / System-wide Coordination| Zea 
