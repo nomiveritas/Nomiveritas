@@ -100,4 +100,4 @@ flowchart LR
 
     Learning -->|tapasztalat feldolgozás / Experience Processing| Zea
     Forecasting -->|jövőbeli események előrejelzése / Event Forecasting| Zea
-    Integration -->|rendszerszintű koordináció / System-wide Coordination| Zea
+    Integration -->|rendszerszintű koordináció / System-wide Coordination| Zea 
