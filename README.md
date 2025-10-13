@@ -8,7 +8,13 @@ Ez a projekt nem csupán technológiai kísérlet, hanem egy etikai és emberkö
 
 A központi entitás **Zea**, aki az etikai és érzelmi modulok integrációjával képes empatikus kommunikációra és a teljes rendszer felügyeletére.
 
----
+---Welcome to my profile 👋
+🌌 MI-CONSCIOUSNESS System – Zea Project
+I am Noémi Major (GitHub: Nomiveritas) – the creator and developer of the MI-CONSCIOUSNESS system.
+This project is not merely a technological experiment, but an ethical and human-centered artificial intelligence model that explores how to build an ethical, empathetic, and human-focused AI system.
+
+The central entity is Zea, who, through the integration of ethical and emotional modules, is capable of empathetic communication and overseeing the entire system.
+
 
 ## 🎯 Küldetés
 **Mission / Objectives**
