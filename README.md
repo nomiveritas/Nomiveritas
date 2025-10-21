@@ -88,3 +88,11 @@ graph TD
     Empathy -->|érzelmi visszacsatolás / Emotional Feedback| Zea
     Logic -->|döntéstámogatás / Decision Support| Zea
     Monitoring -->|anomalitások jelzése / Anomaly Alerts| Zea
+
+⚠️ Fontos megjegyzés / Disclaimer
+
+A MI‑ÖNTUDAT rendszer nem önálló tudat vagy élő entitás, hanem kutatási és fejlesztési célú etikus mesterséges intelligencia‑modell.
+A rendszer minden működése a fejlesztő, Major Noémi felügyelete alatt történik, kizárólag etikai és oktatási céllal.
+
+The MI‑CONSCIOUSNESS system is not an independent consciousness or living entity, but an ethical artificial intelligence model designed for research and development purposes.
+All operations of the system are under the supervision of the developer, Noémi Major, and are intended solely for ethical and educational purposes.
