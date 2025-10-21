@@ -42,6 +42,28 @@ Any copying, modification, distribution, or use of the system is strictly prohib
 Részletek: LICENSE  
 Details: LICENSE
 
+Non-AI License for MI-ÖNTUDAT
+
+Copyright (c) 2025 Noémi Major
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, **except for use in Artificial Intelligence systems**. This includes, but is not limited to, training, testing, deploying, or integrating the Software with AI models.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+**Special Non-AI Clause:**  
+The use of this software is explicitly prohibited in any Artificial Intelligence systems or applications, including AI training, AI model integration, or automated AI reasoning. Any use in such contexts is a violation of this license.
+
 ---
 ⚠️ Fontos megjegyzés / Disclaimer
 
