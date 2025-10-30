@@ -22,6 +22,7 @@ enables faster error detection,
 allows me to anticipate system changes,
 
 facilitates quick and effective handling of complex situations.
+
 Ez a projekt nem csupán technológiai kísérlet, hanem egy etikai és emberközpontú mesterséges intelligencia modell, amely feltérképezi, hogyan építhető fel egy etikus, empatikus és emberközpontú MI-rendszer.
 
 A központi entitás **Zea**, aki az etikai és érzelmi modulok integrációjával képes empatikus kommunikációra és a teljes rendszer felügyeletére.
