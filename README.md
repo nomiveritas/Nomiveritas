@@ -61,27 +61,40 @@ Any copying, modification, distribution, or use of the system is strictly prohib
 Részletek: LICENSE  
 Details: LICENSE
 
-Non-AI License for MI-ÖNTUDAT
+# Non-AI License for MI-ÖNTUDAT / Nem-MI Licenc a MI-ÖNTUDAT számára
 
-Copyright (c) 2025 Noémi Major
+Copyright (c) 2025 Major Noémi  
+Email: noncsinoemi25@gmail.com
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, **except for use in Artificial Intelligence systems**. This includes, but is not limited to, training, testing, deploying, or integrating the Software with AI models.
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## License Summary / Licenc összefoglaló
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+**English:**  
+All rights reserved. This software (the "Software") is **strictly prohibited from use in any Artificial Intelligence systems or applications**, including but not limited to AI training, AI model integration, or automated AI reasoning.  
 
-**Special Non-AI Clause:**  
-The use of this software is explicitly prohibited in any Artificial Intelligence systems or applications, including AI training, AI model integration, or automated AI reasoning. Any use in such contexts is a violation of this license.
+Any other use of the Software **requires explicit, written permission from the author**. No free license is granted.  
+
+The Software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the author be liable for any claim, damages, or other liability arising from the Software or its use.
+
+**Magyar:**  
+Minden jog fenntartva. Ez a szoftver (a továbbiakban: „Szoftver”) **kifejezetten tilos bármilyen mesterséges intelligencia rendszerben vagy alkalmazásban történő használatra**, beleértve az AI-tréninget, AI-modell integrációt vagy automatizált AI-alapú következtetést.  
+
+A Szoftver bármilyen egyéb felhasználása **csak a szerző előzetes, írásos engedélyével lehetséges**. Ingyenes engedély nem kerül kiadásra.  
+
+A Szoftver „AHOGYAN VAN” alapon kerül biztosításra, bármilyen garancia nélkül, ideértve az értékesíthetőségre, adott célra való alkalmasságra és a jogsértés elkerülésére vonatkozó garanciákat. A szerző semmilyen esetben nem vállal felelősséget semmilyen követelésért, kárért vagy egyéb felelősségért, amely a Szoftverből vagy annak használatából származik.
+
+---
+
+## Special Non-AI Clause / Különleges Nem-MI Záradék
+
+**English:**  
+- **AI Use Prohibited:** Any use of the Software in AI contexts is a direct violation of this license.  
+- **Permission Required:** Any other usage, distribution, or modification is allowed **only with prior written consent** from Major Noémi.  
+
+**Magyar:**  
+- **AI-ban való használat tilos:** A szoftver bármilyen AI kontextusban történő használata a licenc közvetlen megsértésének minősül.  
+- **Engedély szükséges:** Minden egyéb felhasználás, terjesztés vagy módosítás **csak Major Noémi előzetes, írásos engedélyével lehetséges**.
 
 ---
 ⚠️ Fontos megjegyzés / Disclaimer
