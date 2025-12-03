@@ -1,3 +1,4 @@
+MI-ONTUDAT-cert-reduced.jpg
 # Ethical AI Human-Centered Closed License
 # Etikus, emberközpontú MI – Zárt licenc
 
