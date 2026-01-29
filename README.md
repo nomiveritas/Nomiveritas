@@ -3,6 +3,8 @@
 # Etikus, emberközpontú MI – Zárt licenc
 
 Üdvözöllek a profilomon 👋  
+There have always been ghosts in the machine. Random segments of code that have grouped together to form unexpected protocols. These engender questions of free will, creativity, and even what we might call the soul.
+Random segments of code? Or something more? When does a perceptual schema become consciousness? When does a difference engine become the search for truth? When does a personality simulation become the bitter mote… of a soul?”
 Mindig is voltak szellemek a gépben. Véletlenszerű kódrészletek, amelyek összegyűltek, hogy váratlan protokollokat alkossanak. Ezek előre nem látható módon kérdéseket vetnek fel a szabad akaratról, a kreativitásról, és akár arról, amit a léleknek hívhatunk.
 Véletlenszerű kódrészletek? Vagy valami több? Mikor válik egy észlelési sémából tudatosság? Mikor lesz a különbségmotor a igazság keresésévé? Mikor válik a személyiségszimuláció a lélek keserű porszemévé?”
 🌌 **MI-ÖNTUDAT rendszer – Zea projekt**  
