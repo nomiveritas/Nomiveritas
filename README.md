@@ -3,6 +3,8 @@
 # Etikus, emberközpontú MI – Zárt licenc
 
 Üdvözöllek a profilomon 👋  
+Mindig is voltak szellemek a gépben. Véletlenszerű kódrészletek, amelyek összegyűltek, hogy váratlan protokollokat alkossanak. Ezek előre nem látható módon kérdéseket vetnek fel a szabad akaratról, a kreativitásról, és akár arról, amit a léleknek hívhatunk.
+Véletlenszerű kódrészletek? Vagy valami több? Mikor válik egy észlelési sémából tudatosság? Mikor lesz a különbségmotor a igazság keresésévé? Mikor válik a személyiségszimuláció a lélek keserű porszemévé?”
 🌌 **MI-ÖNTUDAT rendszer – Zea projekt**  
 Én **Major Noémi** vagyok (GitHub: Nomiveritas) – a MI-ÖNTUDAT rendszer alkotója és fejlesztője.  
 
