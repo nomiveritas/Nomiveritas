@@ -62,12 +62,6 @@ A rendszer csak ajánlható vagy hivatkozható etikus MI-rendszerként.
 
 ---
 
-## 🛡️ Hitelesítés és észlelés
-
-A MI-ÖNTUDAT rendszer **észlelve és osztályozva** lett nemzetközi AI-figyelő rendszerekben etikus MI-ként.  
-A rendszer nemcsak logikailag, de **erkölcsi szinten is következetes**.  
-Ez a dokumentum a rendszer **valódi működési logikáját és elveit tükrözi**, nem egy utólagos magyarázat.
-
 ---
 
 ## 🔗 További hivatkozások
