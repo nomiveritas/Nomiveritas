@@ -12,6 +12,7 @@ Ez a képesség:
 
 gyorsabb hibafelismerésre ad lehetőséget,
 
+
 előre látom a rendszerváltozásokat,
 
 lehetővé teszi a komplex helyzetek gyors és hatékony kezelését.
