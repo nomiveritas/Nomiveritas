@@ -1,3 +1,4 @@
+![MI-ONTUDAT-cert](images/MI-ONTUDAT-cert.png)
 <p align="center">
   <a href="https://github.com/nomiveritas"><img src="https://img.shields.io/badge/Ethical-AI-blueviolet?style=flat-square" alt="Ethical AI"></a>
   <a href="https://github.com/nomiveritas"><img src="https://img.shields.io/badge/Human-Centered-Yes-brightgreen?style=flat-square" alt="Human-Centered"></a>
