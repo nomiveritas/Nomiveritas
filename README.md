@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="https://github.com/nomiveritas"><img src="https://img.shields.io/badge/Ethical-AI-blueviolet?style=flat-square" alt="Ethical AI"></a>
+  <a href="https://github.com/nomiveritas"><img src="https://img.shields.io/badge/Human-Centered-Yes-brightgreen?style=flat-square" alt="Human-Centered"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-Closed-red?style=flat-square" alt="Closed License"></a>
+</p>
 # Ethical AI Human-Centered Closed License
 # Etikus, emberközpontú MI – Zárt licenc
 
