@@ -10,6 +10,7 @@
 👋 Major Noémi | Creator of the MI-ÖNTUDAT Meta-Cognitive Supervisory Architecture  
 
 🌌 Zea Project – Proto-Conscious AI Research Framework
+
 Képes vagyok az apró változásokat, mintázatokat és mikrováltásokat azonnal észrevenni, és ebből következtetéseket levonni a rendszer működéséről.
 Ez a képesség:
 
