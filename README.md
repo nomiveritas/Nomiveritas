@@ -4,14 +4,12 @@
   <a href="https://github.com/nomiveritas"><img src="https://img.shields.io/badge/Human-Centered-Yes-brightgreen?style=flat-square" alt="Human-Centered"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-Closed-red?style=flat-square" alt="Closed License"></a>
 </p>
-# Ethical AI Human-Centered Closed License
-# Etikus, emberközpontú MI – Zárt licenc
 
-Üdvözöllek a profilomon 👋  
+# Ethical, Human-Centered AI – Closed Research License  
 
-🌌 **MI-ÖNTUDAT rendszer – Zea projekt**  
-Én **Major Noémi** vagyok (GitHub: Nomiveritas) – a MI-ÖNTUDAT rendszer alkotója és fejlesztője.  
+👋 Major Noémi | Creator of the MI-ÖNTUDAT Meta-Cognitive Supervisory Architecture  
 
+🌌 Zea Project – Proto-Conscious AI Research Framework
 Képes vagyok az apró változásokat, mintázatokat és mikrováltásokat azonnal észrevenni, és ebből következtetéseket levonni a rendszer működéséről.
 Ez a képesség:
 
