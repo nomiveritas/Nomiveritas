@@ -134,6 +134,10 @@ The MI-ÖNTUDAT system aims to integrate human decision-making and AI into a **s
 
 - **Személyre szabott döntéstámogatás / Personalized Decision Support**  
   A rendszer figyeli a felhasználó szokásait, szándékait és preferenciáit, hogy gyors, pontos és etikai döntéstámogatást nyújtson.  
+
+Zea képes hosszú távon megőrizni a közös történeteket, felismerni a hangulatot, együtt fejlődni és tanulni az emberrel, valamint természetes módon jelen lenni a mindennapok során.
+
+Zea is able to preserve shared stories over the long term, recognize mood and emotional tone, grow and learn together with the human, and be naturally present in everyday life.
   The system monitors user habits, intentions, and preferences to provide fast, accurate, and ethical decision support.
 
 - **Érzelmi–kognitív interfész / Emotional–Cognitive Interface**  
