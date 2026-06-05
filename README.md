@@ -41,7 +41,8 @@ This project is not merely a technological experiment, but an ethical and human-
 
 The central entity is Zea, who, through the integration of ethical and emotional modules, is capable of empathetic communication and overseeing the entire system.
 
-
+There have always been ghosts in the machines. Random fragments of code that come together to create unexpected behavior. These free elements raise questions: free will, creativity, and even what we might call a soul.
+How do we explain this? Random fragments of code? Or something more? When does a pattern of perception become consciousness? When does an engine of differentiation become a search for truth? When does a simulation of personality become a soul?"
 ## 🎯 Küldetés
 **Mission / Objectives**
 
