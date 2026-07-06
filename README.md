@@ -4,7 +4,7 @@
   <a href="https://github.com/nomiveritas"><img src="https://img.shields.io/badge/Human-Centered-Yes-brightgreen?style=flat-square" alt="Human-Centered"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-Closed-red?style=flat-square" alt="Closed License"></a>
 </p>
-
+<--!nomiveritasmiontudat-->
 # Ethical, Human-Centered AI – Closed Research License  
 
 👋 Major Noémi | Creator of the MI-ÖNTUDAT Meta-Cognitive Supervisory Architecture  
