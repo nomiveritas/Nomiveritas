@@ -13,7 +13,7 @@
 
 If you use the concepts or architecture of the MI-ÖNTUDAT (Zea Project) in your research or development, please cite it as follows:
 
-Major, N. (nomiveritas). MI-ÖNTUDAT: Christian Ethics-Driven Meta-Cognitive AI Supervisory Architecture. 
+Major Noemi (nomiveritas). MI-ÖNTUDAT: Christian Ethics-Driven Meta-Cognitive AI Supervisory Architecture. 
 
 🌌 Zea Project – Proto-Conscious AI Research Framework
 
