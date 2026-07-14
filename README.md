@@ -212,6 +212,10 @@ Technical Specification: Every local enterprise deployment package features deep
 
 Implications: Any unauthorized attempt to intercept, attach a debugger, analyze, or decompile the binary environment triggers an instantaneous, autonomous, and irreversible self-destruction protocol of the local codebase, rendering the files permanently unreadable before any data exfiltration can occur
 
+
+
+
+
 ### Citation
 
 If you use this architecture or research in your work, please cite it as follows:
@@ -222,7 +226,7 @@ If you use this architecture or research in your work, please cite it as follows
   title         = {Zea Meta-Cognitive Supervisory Architecture White Paper v1.0},
   month         = jul,
   year          = 2026,
-  publisher    = {Zenodo},
+  publisher     = {Zenodo},
   doi           = {10.5281/zenodo.21264263},
   url           = {https://doi.org}
 }
