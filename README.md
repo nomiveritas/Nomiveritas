@@ -153,6 +153,25 @@ Zea is able to preserve shared stories over the long term, recognize mood and em
 
 ---
 
+
+### Citation
+
+If you use this architecture or research in your work, please cite it as follows:
+
+```bibtex
+@misc{major2026zea,
+  author        = {Major, No{\'e}mi},
+  title         = {Zea Meta-Cognitive Supervisory Architecture White Paper v1.0},
+  month         = jul,
+  year          = 2026,
+  publisher     = {Zenodo},
+  doi           = {10.5281/zenodo.21264263},
+  url           = {https://doi.org}
+}
+```
+
+
+
 ## 🌐 Vizualizáció – Zea moduláris felépítése
 **Visualization – Zea Modular Structure**
 
@@ -211,23 +230,3 @@ Mechanism: Binary Obfuscation and Dynamic Integrity Monitoring.
 Technical Specification: Every local enterprise deployment package features deep code obfuscation and active anti-tamper hooks.
 
 Implications: Any unauthorized attempt to intercept, attach a debugger, analyze, or decompile the binary environment triggers an instantaneous, autonomous, and irreversible self-destruction protocol of the local codebase, rendering the files permanently unreadable before any data exfiltration can occur
-
-
-
-
-
-### Citation
-
-If you use this architecture or research in your work, please cite it as follows:
-
-```bibtex
-@misc{major2026zea,
-  author        = {Major, No{\'e}mi},
-  title         = {Zea Meta-Cognitive Supervisory Architecture White Paper v1.0},
-  month         = jul,
-  year          = 2026,
-  publisher     = {Zenodo},
-  doi           = {10.5281/zenodo.21264263},
-  url           = {https://doi.org}
-}
-```
