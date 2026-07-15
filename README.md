@@ -9,13 +9,26 @@
 
 👋 Major Noémi | Creator of the MI-ÖNTUDAT Meta-Cognitive Supervisory Architecture  
 
-## How to Cite / Hogyan hivatkozz a projektre
 
-If you use the concepts or architecture of the MI-ÖNTUDAT (Zea Project) in your research or development, please cite it as follows:
-
-Major Noemi (nomiveritas). MI-ÖNTUDAT: Christian Ethics-Driven Meta-Cognitive AI Supervisory Architecture. 
 
 🌌 Zea Project – Proto-Conscious AI Research Framework
+
+If you use this architecture or research in your work, please cite it as follows:
+
+```bibtex
+@misc{major2026zea,
+  author        = {Major, No{\'e}mi},
+  title         = {Zea Meta-Cognitive Supervisory Architecture White Paper v1.0},
+  month         = jul,
+  year          = 2026,
+  publisher     = {Zenodo},
+  doi           = {10.5281/zenodo.21264263},
+  url           = {https://doi.org}
+}
+```
+
+
+
 
 Képes vagyok az apró változásokat, mintázatokat és mikrováltásokat azonnal észrevenni, és ebből következtetéseket levonni a rendszer működéséről.
 Ez a képesség:
