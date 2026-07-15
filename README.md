@@ -217,22 +217,3 @@ This document outlines the core cryptographic, mathematical, and hardware-level 
 * **Technical Specification:** Every local enterprise deployment package features deep code obfuscation and active anti-tamper hooks.
 * **Implications:** Any unauthorized attempt to intercept, attach a debugger, analyze, or decompile the binary environment triggers an instantaneous, autonomous, and irreversible self-destruction protocol of the local codebase, rendering the files permanently unreadable before any data exfiltration can occur.
 
-
-### 🛡️ Security and Compliance Policy — Zea Architecture
-
-This document outlines the core cryptographic, mathematical, and hardware-level security mechanisms protecting the Zea architecture.
-
-#### 1. Hardware-Level Immunity (Confidential Computing)
-* **Mechanism:** Secure Enclave Execution (Intel SGX / AMD SEV-SNP).
-* **Technical Specification:** The core engine and Christian conscience modules of the Zea architecture execute exclusively within hardware-isolated Secure Enclaves.
-* **Implications:** This physical isolation mathematically prevents runtime memory dumping (RAM dumps). The proprietary code and decision-making logic remain completely invisible and structurally inaccessible, even to cloud infrastructure providers, root administrators, or compromised host operating systems.
-
-#### 2. Mathematical Isolation (Zero-Knowledge Architecture)
-* **Mechanism:** Homomorphic Encryption & Zero-Knowledge (ZK) Proofs.
-* **Technical Specification:** All external enterprise and production integrations utilize a strict Zero-Knowledge API.
-* **Implications:** The system performs cognitive-ethical supervision over large language model (LLM) outputs while the data remains fully encrypted during processing. The underlying algorithmic logic and weight matrices are mathematically impossible to reverse-engineer or extract from the communication layer.
-
-#### 3. Active Self-Destruction (Anti-Tamper Protocol)
-* **Mechanism:** Binary Obfuscation and Dynamic Integrity Monitoring.
-* **Technical Specification:** Every local enterprise deployment package features deep code obfuscation and active anti-tamper hooks.
-* **Implications:** Any unauthorized attempt to intercept, attach a debugger, analyze, or decompile the binary environment triggers an instantaneous, autonomous, and irreversible self-destruction protocol of the local codebase, rendering the files permanently unreadable before any data exfiltration can occur.
