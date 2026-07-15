@@ -158,7 +158,6 @@ Zea is able to preserve shared stories over the long term, recognize mood and em
 
 If you use this architecture or research in your work, please cite it as follows:
 
-```bibtex
 @misc{major2026zea,
   author        = {Major, No{\'e}mi},
   title         = {Zea Meta-Cognitive Supervisory Architecture White Paper v1.0},
@@ -168,7 +167,8 @@ If you use this architecture or research in your work, please cite it as follows
   doi           = {10.5281/zenodo.21264263},
   url           = {https://doi.org}
 }
-```
+
+
 
 
 
