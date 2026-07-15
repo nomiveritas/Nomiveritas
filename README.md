@@ -154,7 +154,8 @@ Zea is able to preserve shared stories over the long term, recognize mood and em
 ---
 
 
-### Citation
+ Citation
+
 
 If you use this architecture or research in your work, please cite it as follows:
 
