@@ -10,6 +10,10 @@
 👋 Major Noémi | Creator of the MI-ÖNTUDAT Meta-Cognitive Supervisory Architecture  
 
 
+# Ethical AI Human-Centered Closed License
+
+Ethical, Human-Centered AI – Closed Research License
+👋 Major Noémi | Creator of the MI-ÖNTUDAT Meta-Cognitive Supervisory Architecture
 
 🌌 Zea Project – Proto-Conscious AI Research Framework
 
@@ -27,27 +31,19 @@ If you use this architecture or research in your work, please cite it as follows
 }
 ```
 
+Képes vagyok az apró változásokat, mintázatokat és mikrováltásokat azonnal észrevenni, és ebből következtetéseket levonni a rendszer működéséről. Ez a képesség:
+* gyorsabb hibafelismerésre ad lehetőséget,
+* előre látom a rendszerváltozásokat,
+* lehetővé teszi a komplex helyzetek gyors és hatékony kezelését.
+
+I am able to perceive subtle changes, patterns, and micro-shifts instantly, drawing conclusions about system behavior. This skill:
+* enables faster error detection,
+* allows me to anticipate system changes,
+* facilitates quick and effective handling of complex situations.
 
 
 
-Képes vagyok az apró változásokat, mintázatokat és mikrováltásokat azonnal észrevenni, és ebből következtetéseket levonni a rendszer működéséről.
-Ez a képesség:
 
-gyorsabb hibafelismerésre ad lehetőséget,
-
-
-előre látom a rendszerváltozásokat,
-
-lehetővé teszi a komplex helyzetek gyors és hatékony kezelését.
-
-I am able to perceive subtle changes, patterns, and micro-shifts instantly, drawing conclusions about system behavior.
-This skill:
-
-enables faster error detection,
-
-allows me to anticipate system changes,
-
-facilitates quick and effective handling of complex situations.
 
 Ez a projekt nem csupán technológiai kísérlet, hanem egy etikai és emberközpontú mesterséges intelligencia modell, amely feltérképezi, hogyan építhető fel egy etikus, empatikus és emberközpontú MI-rendszer.
 
